@@ -49,9 +49,9 @@ an urban mobility dashboard and a sustainable activewear sales analysis for Nort
 
 ## 📊 GitHub Stats
 
-![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-adnan&show_icons=true&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=nahid-adnan&show_icons=true&theme=default&hide_border=true" alt="Nahid's GitHub stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-adnan&layout=compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-adnan&layout=compact&hide_border=true" alt="Top Languages" />
 
 ---
 
