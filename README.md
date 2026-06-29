@@ -47,11 +47,11 @@ an urban mobility dashboard and a sustainable activewear sales analysis for Nort
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=nahid-adnan&show_icons=true&theme=default&hide_border=true" alt="Nahid's GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-adnan&layout=compact&hide_border=true" alt="Top Languages" />
+- 🐍 Most of my current work is in Python
+- 📈 Building toward adding R and Power BI projects publicly
+- 🔄 10 contributions in the last year — actively growing this profile
 
 ---
 
