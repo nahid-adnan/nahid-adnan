@@ -6,10 +6,10 @@ I came into data science from statistics (MSc, Jahangirnagar University) and I'm
 Master of Data Science at James Cook University. This profile is where I keep the work I'm learning
 from and building — Python, R, Power BI, SQL, and the occasional experiment.
 
-<img src="https://img.shields.io/badge/📍_Cairns,_QLD-Australia-2E8B57?style=flat-square" />
-<img src="https://img.shields.io/badge/🎓_MSc_Statistics-Jahangirnagar-4B8BBE?style=flat-square" />
-<img src="https://img.shields.io/badge/📊_MDS-James_Cook_University-006747?style=flat-square" />
-<img src="https://img.shields.io/badge/🎯_Open_to-Data_Analyst_roles-F2C811?style=flat-square" />
+![Location](https://img.shields.io/badge/📍_Cairns,_QLD-Australia-2E8B57?style=flat-square)
+![MSc](https://img.shields.io/badge/🎓_MSc_Statistics-Jahangirnagar-4B8BBE?style=flat-square)
+![MDS](https://img.shields.io/badge/📊_MDS-James_Cook_University-006747?style=flat-square)
+![Open to work](https://img.shields.io/badge/🎯_Open_to-Data_Analyst_roles-F2C811?style=flat-square)
 
 ---
 
@@ -84,14 +84,14 @@ sustainable activewear sales analysis for North Queensland.
 
 ## 📊 Activity
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nahid-adnan&show_icons=true&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-adnan&layout=compact&hide_border=true" />
-</p>
+![Python](https://img.shields.io/badge/Primary_language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Dashboards-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Repos](https://img.shields.io/badge/Public_repos-7-181717?style=flat-square&logo=github&logoColor=white)
 
-- 🐍 Most of my current work is in **Python**
+- 🐍 Most of my current work is in **Python** — programming fundamentals and data analysis
 - 📊 **Power BI** is where my visualisation coursework lands — first dashboard published, more coming
 - 📉 Bringing **R** across from my statistics background as projects call for it
+- 📁 Repos here range from coursework practicals to full analytical projects
 - 🔄 Actively growing this profile each term
 
 ---
