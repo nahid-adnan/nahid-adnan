@@ -7,8 +7,8 @@ Master of Data Science at James Cook University. This profile is where I keep th
 from and building — Python, R, Power BI, SQL, and the occasional experiment.
 
 ![Location](https://img.shields.io/badge/📍_Cairns,_QLD-Australia-2E8B57?style=flat-square)
-![MSc](https://img.shields.io/badge/🎓_MSc_Statistics-Jahangirnagar_University-4B8BBE?style=flat-square)
-![MDS](https://img.shields.io/badge/📊_MDS-James_Cook_University-006747?style=flat-square)
+[![MSc](https://img.shields.io/badge/🎓_MSc_Statistics-Jahangirnagar_University-4B8BBE?style=flat-square)](https://juniv.edu/)
+[![MDS](https://img.shields.io/badge/📊_MDS-James_Cook_University-006747?style=flat-square)](https://www.jcu.edu.au/)
 ![Open to work](https://img.shields.io/badge/🎯_Open_to-Data_Analyst_roles-F2C811?style=flat-square)
 
 ---
