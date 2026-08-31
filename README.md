@@ -43,6 +43,6 @@ an urban mobility dashboard and a sustainable activewear sales analysis for Nort
 ---
 ## 📬 Reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahid-hasan-a8767114b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahid316unmad@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahid34618@gmail.com)
 ---
 *Based in Cairns, Queensland 🇦🇺 | Open to data analyst opportunities in Brisbane*
