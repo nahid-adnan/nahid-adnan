@@ -65,16 +65,41 @@ An interactive **Power BI** dashboard on Tasmania's short-term rental market —
 <sub>DAX measures · what-if parameters · drill-through & drill-down · custom tooltip page · bookmarks</sub>
 
 ### 🎮 [blue-v-red](https://github.com/nahid-adnan/blue-v-red)
-A turn-based command-line Python game where name length determines win probability, with a
-pandas/matplotlib data analysis component built in. Written under strict constraints:
-no global variables, no `while True`.
+A turn-based command-line game where you build a Blue team and fight a computer-controlled Red team.
+Each round is decided probabilistically by name length — `P(Blue wins) = len(blue) / (len(blue) + len(red))` —
+and every round is logged to CSV so the outcomes can be analysed afterwards.
+
+The built-in analysis module reads that log and produces **four charts**: a histogram of name lengths,
+win rate by name length, predicted probability vs actual outcome, and cumulative win rate across all
+rounds — turning a toy game into a small experiment in whether the model behaves as designed.
+
+<sub>🐍 Python · 🐼 pandas · 🔢 NumPy · 📊 matplotlib · menu-driven CLI · CSV logging</sub>
+<sub>Written under strict constraints: no global variables, no `while True`.</sub>
 
 ### 🐍 [cp5639-python-practicals](https://github.com/nahid-adnan/cp5639-python-practicals)
-A portfolio of Python practicals covering conditionals, loops, functions, and lists.
-Built as part of my MDS programming coursework at JCU.
+A portfolio of practicals from **CP5639 — Problem Solving and Programming**, working up from
+decision logic to structured data across six practicals:
+
+| | Focus |
+|:---|:---|
+| **P3** | Conditionals — eligibility checks, categorisers, fine calculators |
+| **P4** | Loops & accumulation — sentinel loops, nested loops, sequence generators |
+| **P5** | Menus & input validation |
+| **P6** | Functions — modular design, constants, JCU grade converter |
+| **P7** | Functions & debugging — BMI calculator, unit converters |
+| **P8** | Lists & tuples — test-score analysis with grade and trend detection |
+
+<sub>🐍 Pure Python 3, no external libraries · f-strings · docstrings · named constants</sub>
 
 ### ⌨️ [cp1401-assignment-1](https://github.com/nahid-adnan/cp1401-assignment-1)
-Python work covering IPO design, conditionals, loops, and input validation.
+Three programs from **CP1401 — Introduction to Programming**, each built around the
+Input-Process-Output pattern:
+
+- 🍕 **Pizza pay calculator** — driver pay from trips and minutes worked
+- 🎾 **Tennis result** — match outcome plus an independent fast-match bonus check
+- 😴 **Sleep tracker** — five nights of validated input, accumulating total sleep against a recommended target
+
+<sub>🐍 Pure Python 3 · `for` and `while` loops · input validation · accumulation pattern</sub>
 
 ### 📈 More Power BI dashboards *(in progress)*
 Visualisation projects built during my MDS, including an urban mobility dashboard and a
