@@ -33,8 +33,7 @@ portfolio of Python practicals covering conditionals, loops, functions, and list
 my MDS programming coursework at JCU.
 - [**cp1401-assignment-1**](https://github.com/nahid-adnan/cp1401-assignment-1) — Python work 
 covering IPO design, conditionals, loops, and input validation.
-- **Power BI Dashboards** *(coming soon)* — Visualisation projects built during my MDS, including 
-an urban mobility dashboard and a sustainable activewear sales analysis for North Queensland.
+
 ---
 ## 📊 Activity
 - 🐍 Most of my current work is in Python
