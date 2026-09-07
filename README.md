@@ -44,12 +44,33 @@ from and building — Python, R, Power BI, SQL, and the occasional experiment.
 
 - 📚 **Studying** data visualisation and data ethics as part of my MDS at JCU — dashboard design theory, visual encoding, and the responsibilities that come with presenting data
 - 🐍 **Building** Python and analysis projects to sharpen the fundamentals — clean structure, readable logic, and reproducible output
-- 📊 **Publishing** Power BI work, starting with the Tasmania short-stay dashboard below
+- 📊 **Publishing** Power BI work — two dashboards up so far, on Queensland schooling equity and the Tasmanian short-stay market
 - 🎯 **Working toward** a data analyst role in Brisbane on a 485 visa
 
 ---
 
 ## 🔨 A few things I've built
+
+### 📊 [naplan-qld-equity-dashboard](https://github.com/nahid-adnan/naplan-qld-equity-dashboard)
+An interactive **Power BI** dashboard asking where the equity gaps sit in Queensland schooling —
+**1,369 schools** across three linked report pages, built on ACARA's 2014 NAPLAN release.
+
+| | |
+|:---|:---|
+| ⭐ **Equity quadrants** | ICSEA-versus-score scatter with reference lines splitting schools four ways |
+| 🗺️ **Point map** | Every school placed individually, because schools — not regions — are the unit of intervention |
+| 🎗️ **Ribbon chart** | Whether sector rankings shift as students progress from Year 3 to Year 9 |
+| 🌳 **Decomposition tree** | AI-assisted exploration of what drives score variation |
+
+Behind it: a **60,236-row** fact table unpivoted in Power Query from 44 result columns, joined
+many-to-one to a school dimension on ACARA SML ID. Suppression codes are treated as missing rather
+than zero, so an unreported school never renders as a poor performer.
+
+Encoding follows the Cleveland–McGill accuracy ranking, layout follows Shneiderman's *overview
+first, zoom and filter, details on demand*, and cross-visual interaction runs on a deliberate
+three-tier policy rather than Power BI defaults.
+
+<sub>DAX measures · Power Query unpivot · star schema · drill-down · custom tooltip page · accessible theme</sub>
 
 ### 🏝️ [Tasmania-short-stay-dashboard](https://github.com/nahid-adnan/Tasmania-short-stay-dashboard)
 An interactive **Power BI** dashboard on Tasmania's short-term rental market — **5,293 listings** and a
@@ -102,7 +123,7 @@ Input-Process-Output pattern:
 <sub>🐍 Pure Python 3 · `for` and `while` loops · input validation · accumulation pattern</sub>
 
 ### 📈 More Power BI dashboards *(in progress)*
-Visualisation projects built during my MDS, including an urban mobility dashboard and a
+Further visualisation projects from my MDS, including an urban mobility dashboard and a
 sustainable activewear sales analysis for North Queensland.
 
 ---
@@ -111,10 +132,10 @@ sustainable activewear sales analysis for North Queensland.
 
 ![Python](https://img.shields.io/badge/Primary_language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Dashboards-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Repos](https://img.shields.io/badge/Public_repos-7-181717?style=flat-square&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public_repos-8-181717?style=flat-square&logo=github&logoColor=white)
 
 - 🐍 Most of my current work is in **Python** — programming fundamentals and data analysis
-- 📊 **Power BI** is where my visualisation coursework lands — first dashboard published, more coming
+- 📊 **Power BI** is where my visualisation coursework lands — two dashboards published, more coming
 - 📉 Bringing **R** across from my statistics background as projects call for it
 - 📁 Repos here range from coursework practicals to full analytical projects
 - 🔄 Actively growing this profile each term
