@@ -16,24 +16,41 @@
   <img src="./assets/workspace.svg" alt="Building dashboards" width="100%">
 </div>
 
-I came to data science from statistics. My MSc at Jahangirnagar University was in statistical theory and inference — the mathematics of why an estimate can be trusted at all. The Master of Data Science at James Cook University is where that turns into something usable: Power BI models a policy officer can open without a walkthrough, Python and R that still runs the same way next month, SQL another analyst can read. Most of my work sits in the gap between **"the analysis is correct"** and **"the analysis is understood"** — and in practice that gap is where the real problem usually is.
+Statistics came first. My MSc at Jahangirnagar was in theory and inference — estimators, sampling distributions, the conditions under which a number is allowed to mean anything. That training left me suspicious of results that look clean, which turns out to be the useful part.
 
-<p align="center"><i>I'd rather understand why a number moved than produce a chart faster.</i></p>
+Building the NAPLAN equity dashboard, the hard problem was never the visuals. Queensland suppresses results for small cohorts, and a suppressed value read as zero quietly turns an unreported school into a failing one. Getting that single decision right mattered more than anything else on the page.
+
+So most of my attention goes to the unglamorous half — what's missing, what the model genuinely can't answer, whether someone could rebuild it in six months without me. The Master of Data Science at JCU is where that becomes software: a Power BI report an officer opens without a walkthrough, Python that behaves the same way next month, SQL another analyst can read.
 
 <p align="center">
-  <a href="https://www.jcu.edu.au/"><img src="https://img.shields.io/badge/Studying-Master%20of%20Data%20Science%20%E2%80%A2%20James%20Cook%20University-E8590C?style=for-the-badge&labelColor=15202B" alt="Master of Data Science, James Cook University"></a>
+  <a href="https://www.jcu.edu.au/"><img src="https://img.shields.io/badge/%F0%9F%8E%93%20Master%20of%20Data%20Science-James%20Cook%20University-E8590C?style=for-the-badge&labelColor=15202B" alt="Master of Data Science, James Cook University"></a>
 </p>
 
 <p align="center">
-  <a href="https://juniv.edu/"><img src="https://img.shields.io/badge/Before%20that-MSc%20%26%20BSc%20Statistics%20%E2%80%A2%20Jahangirnagar%20University-2F9E44?style=for-the-badge&labelColor=15202B" alt="MSc and BSc Statistics, Jahangirnagar University"></a>
+  <a href="https://juniv.edu/"><img src="https://img.shields.io/badge/%F0%9F%93%90%20MSc%20Statistics-Jahangirnagar%20University-2F9E44?style=for-the-badge&labelColor=15202B" alt="MSc Statistics, Jahangirnagar University"></a>
+  <a href="https://juniv.edu/"><img src="https://img.shields.io/badge/%F0%9F%93%8A%20BSc%20Statistics-Jahangirnagar%20University-0CA678?style=for-the-badge&labelColor=15202B" alt="BSc Statistics, Jahangirnagar University"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Doing%20now-15202B?style=for-the-badge" alt="Doing now">
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20Doing%20now-15202B?style=for-the-badge" alt="Doing now">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/DAX-7048E8?style=for-the-badge" alt="DAX">
+  <img src="https://img.shields.io/badge/Power%20Query-FD7E14?style=for-the-badge" alt="Power Query">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/SQL-E03131?style=for-the-badge" alt="SQL">
+  <img src="https://img.shields.io/badge/SQL-E03131?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%B1%20Learning%20next-15202B?style=for-the-badge" alt="Learning next">
+  <img src="https://img.shields.io/badge/Advanced%20DAX-9775FA?style=for-the-badge" alt="Advanced DAX">
+  <img src="https://img.shields.io/badge/SQL%20window%20functions-F76707?style=for-the-badge" alt="SQL window functions">
+  <img src="https://img.shields.io/badge/Statistical%20modelling%20in%20R-37B24D?style=for-the-badge" alt="Statistical modelling in R">
+  <img src="https://img.shields.io/badge/Cloud%20data%20tools-22B8CF?style=for-the-badge" alt="Cloud data tools">
 </p>
 
 ---
