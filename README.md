@@ -83,6 +83,7 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 > I'd rather understand why a number moved than produce a chart faster.
 
 ---
+
 ## 🧰 Tools I work with
 
 <div align="center">
@@ -90,8 +91,6 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 </div>
 
 <p align="center"><sub>Inside Power BI: DAX &nbsp;•&nbsp; Power Query / M &nbsp;•&nbsp; star-schema modelling &nbsp;•&nbsp; row-level security</sub></p>
-
----
 
 ---
 
@@ -239,25 +238,16 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 
 ---
 
-<h3 align="center">Say hello</h3>
+<h3 align="center">Where You Can Find Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nahid-hasan-a8767114b/" title="LinkedIn">
-    <img height="72" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:nahid316unmad@gmail.com" title="Email">
-    <img height="72" src="https://skillicons.dev/icons?i=gmail" alt="Email">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nahid-adnan" title="GitHub">
-    <img height="72" src="https://skillicons.dev/icons?i=github" alt="GitHub">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- CHECK: paste your real YouTube channel URL here -->
-  <a href="https://www.youtube.com/" title="YouTube">
-    <img height="72" src="https://img.icons8.com/color/144/youtube-play.png" alt="YouTube">
-  </a>
+  <a href="https://www.linkedin.com/in/nahid-hasan-a8767114b" title="LinkedIn"><img height="56" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="mailto:nahid34618@gmail.com" title="Email"><img height="56" src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://github.com/nahid-adnan" title="GitHub"><img height="56" src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>&nbsp;&nbsp;
+  <a href="https://gitlab.com/YOUR-GITLAB-USERNAME" title="GitLab"><img height="56" src="https://skillicons.dev/icons?i=gitlab" alt="GitLab"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@nahidhasan7785" title="YouTube"><img height="56" src="./assets/icons/youtube.svg" alt="YouTube"></a>
 </p>
+
+<p align="center"><sub>Open to data analyst roles in Brisbane. Always happy to talk data, dashboards, or statistics.</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2030,50:306998,100:4B8BBE&height=130&section=footer&text=Based%20in%20Cairns,%20QLD&fontColor=FFD43B&fontSize=22&fontAlignY=72&animation=fadeIn" width="100%">
