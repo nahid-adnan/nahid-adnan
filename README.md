@@ -100,7 +100,7 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 <p align="center">
   <img height="48" alt="SAS" title="SAS" src="./assets/icons/sas.svg">&nbsp;&nbsp;&nbsp;
   <img height="48" alt="SPSS" title="IBM SPSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg">&nbsp;&nbsp;&nbsp;
-  <img height="48" alt="Stata" title="Stata" src="src="./assets/icons/stata-icon.svg"">
+     <img height="48" alt="Stata" title="Stata" src="./assets/icons/stata-icon.svg">
 </p>
 
 <h4 align="center">Databases &amp; data processing</h4>
