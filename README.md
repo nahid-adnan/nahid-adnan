@@ -208,20 +208,20 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 ## 📊 GitHub stats
 
 <div align="center">
-  <img width="100%" alt="Profile summary" src="./assets/cards/profile-details.svg">
+  <img width="100%" alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahid-adnan&theme=github_dark&animation=rgb-soft">
 </div>
 
 <div align="center">
-  <img width="49%" alt="Stats" src="./assets/cards/stats.svg">
-  <img width="49%" alt="Most used language" src="./assets/cards/languages.svg">
+  <img width="49%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahid-adnan&theme=github_dark&animation=rgb-soft">
+  <img width="49%" alt="Most used language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahid-adnan&theme=github_dark&animation=rgb-soft">
 </div>
 
 <div align="center">
-  <img width="60%" alt="Productive time" src="./assets/cards/productive-time.svg">
+  <img width="60%" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahid-adnan&theme=github_dark&utcOffset=10&animation=rgb-soft">
 </div>
 
 <div align="center">
-  <img width="72%" alt="Contribution streak" src="./assets/cards/streak.svg">
+  <img width="72%" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=nahid-adnan&theme=github-dark-blue&hide_border=true">
 </div>
 
 <p align="center">
@@ -229,6 +229,7 @@ I came to data science from statistics. My MSc was in statistical theory and inf
   <a href="https://github.com/nahid-adnan?tab=followers"><img src="https://img.shields.io/github/followers/nahid-adnan?style=for-the-badge&label=Followers&color=4B8BBE&labelColor=0B2030" alt="Followers"></a>
 </p>
 
+---
 ---
 
 ## 🐍 Contribution snake
