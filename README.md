@@ -16,11 +16,11 @@
   <img src="./assets/workspace.svg" alt="Building dashboards" width="100%">
 </div>
 
-Statistics came first. My MSc at Jahangirnagar was in theory and inference — estimators, sampling distributions, the conditions under which a number is allowed to mean anything. That training left me suspicious of results that look clean, which turns out to be the useful part.
+<b>Statistics came first. My MSc at Jahangirnagar was in theory and inference — estimators, sampling distributions, the conditions under which a number is allowed to mean anything. That training left me suspicious of results that look clean, which turns out to be the useful part.</b>
 
-Building the NAPLAN equity dashboard, the hard problem was never the visuals. Queensland suppresses results for small cohorts, and a suppressed value read as zero quietly turns an unreported school into a failing one. Getting that single decision right mattered more than anything else on the page.
+<b>Building the NAPLAN equity dashboard, the hard problem was never the visuals. Queensland suppresses results for small cohorts, and a suppressed value read as zero quietly turns an unreported school into a failing one. Getting that single decision right mattered more than anything else on the page.</b>
 
-So most of my attention goes to the unglamorous half — what's missing, what the model genuinely can't answer, whether someone could rebuild it in six months without me. The Master of Data Science at JCU is where that becomes software: a Power BI report an officer opens without a walkthrough, Python that behaves the same way next month, SQL another analyst can read.
+<b>So most of my attention goes to the unglamorous half — what's missing, what the model genuinely can't answer, whether someone could rebuild it in six months without me. The Master of Data Science at JCU is where that becomes software: a Power BI report an officer opens without a walkthrough, Python that behaves the same way next month, SQL another analyst can read.</b>
 
 <p align="center">
   <a href="https://www.jcu.edu.au/"><img src="https://img.shields.io/badge/%F0%9F%8E%93%20Master%20of%20Data%20Science-James%20Cook%20University-E8590C?style=for-the-badge&labelColor=15202B" alt="Master of Data Science, James Cook University"></a>
