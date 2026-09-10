@@ -1,213 +1,294 @@
 <!--
-  ============================================================
-  GitHub Profile README  —  github.com/nahid-adnan
-  Place this file at:  nahid-adnan/nahid-adnan/README.md
-  The snake + pacman animations need GitHub Actions — see SETUP-GUIDE.md
-  ============================================================
+  ─────────────────────────────────────────────────────────────
+  BEFORE YOU COMMIT — 3 things to check (search for "CHECK:")
+    1. Repo slugs in "Selected work" — I guessed two of them.
+    2. Your YouTube channel URL at the bottom.
+    3. Run the two workflows in .github/workflows/ once each
+       (Actions tab → Run workflow) so the stats + snake SVGs exist.
+  ─────────────────────────────────────────────────────────────
 -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F2027,50:203A43,100:2CB5E8&text=B%20M%20Nahid%20Hasan%20Adnan&fontSize=40&fontColor=ffffff&fontAlignY=32&desc=MSc%20Statistics%20%7C%20MDS%20@%20JCU%20Cairns%20%7C%20Data%20Analyst%20in%20the%20making&descAlignY=52&descSize=16&animation=fadeIn" width="100%" alt="header" />
-
-<a href="https://www.linkedin.com/in/nahid-hasan-a8767114b">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=2CB5E8&center=true&vCenter=true&width=760&lines=Statistics+first%2C+then+the+tooling;Python+%7C+R+%7C+SQL+%7C+Power+BI+%7C+DAX;Dashboards%2C+not+decoration;Open+to+Data+Analyst+roles+in+Brisbane" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=nahid-adnan&style=for-the-badge&color=2CB5E8&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/nahid-adnan?style=for-the-badge&color=2CB5E8&labelColor=0F2027&label=FOLLOWERS" alt="Followers" />
-<img src="https://img.shields.io/badge/Cairns,_QLD-Australia-2E8B57?style=for-the-badge&labelColor=0F2027" alt="Location" />
-<img src="https://img.shields.io/badge/Open_to-Data_Analyst_roles-F2C811?style=for-the-badge&labelColor=0F2027" alt="Open to work" />
-
+  <img src="./assets/header.svg" alt="B M Nahid Hasan Adnan — data analyst, statistics first" width="100%">
 </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nahid-hasan-a8767114b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:nahid316unmad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-C5221F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/nahid-adnan?tab=followers">
+    <img src="https://img.shields.io/github/followers/nahid-adnan?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=306998" alt="Followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nahid-adnan&style=for-the-badge&label=Profile+views&color=0B2030" alt="Profile views">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cairns,%20QLD-0B2030?style=for-the-badge&logo=googlemaps&logoColor=FFD43B" alt="Cairns, QLD">
+  <img src="https://img.shields.io/badge/Open%20to-Data%20analyst%20roles%20in%20Brisbane-FFD43B?style=for-the-badge&labelColor=0B2030" alt="Open to data analyst roles in Brisbane">
+</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About me
+## 🧭 About me
 
-```yaml
-name:        B M Nahid Hasan Adnan
-role:        Data Analyst (graduate) — statistics background
-location:    Cairns, Queensland, Australia
-study:       Master of Data Science, James Cook University   # in progress
-prior:       MSc + BSc Statistics, Jahangirnagar University  # completed
-work_rights: 485 post-study work visa pathway
-targeting:   Brisbane, Australia
+<table>
+  <tr>
+    <td width="42" align="center">🎓</td>
+    <td width="150"><b>Studying</b></td>
+    <td>
+      Master of Data Science <i>(in progress)</i><br>
+      <a href="https://www.jcu.edu.au/"><img src="https://img.shields.io/badge/James%20Cook%20University-002B49?style=for-the-badge&logoColor=white" alt="James Cook University — jcu.edu.au"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">📐</td>
+    <td><b>Before that</b></td>
+    <td>
+      MSc + BSc in Statistics — statistical theory and inference<br>
+      <a href="https://juniv.edu/"><img src="https://img.shields.io/badge/Jahangirnagar%20University-14532D?style=for-the-badge&logoColor=white" alt="Jahangirnagar University — juniv.edu"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">💼</td>
+    <td><b>Doing now</b></td>
+    <td>Power BI dashboards, Python and R analysis, SQL modelling</td>
+  </tr>
+  <tr>
+    <td align="center">🎯</td>
+    <td><b>Looking for</b></td>
+    <td>Data analyst roles in Brisbane, Australia</td>
+  </tr>
+  <tr>
+    <td align="center">🛂</td>
+    <td><b>Work rights</b></td>
+    <td>485 post-study work visa pathway</td>
+  </tr>
+  <tr>
+    <td align="center">📍</td>
+    <td><b>Based in</b></td>
+    <td>Cairns, Queensland, Australia</td>
+  </tr>
+  <tr>
+    <td align="center">✉️</td>
+    <td><b>Reach me</b></td>
+    <td><a href="mailto:nahid316unmad@gmail.com">nahid316unmad@gmail.com</a></td>
+  </tr>
+</table>
 
-analysis:    Python · R · SQL · pandas · NumPy · matplotlib
-dashboards:  Power BI · DAX · Power Query · Tableau · Excel
-workflow:    Git · GitHub · VS Code · Markdown
+I came to data science from statistics. My MSc was in statistical theory and inference; the Master of Data Science at JCU is where that turns into working software and dashboards other people can actually use. **The gap between "the analysis is correct" and "the analysis is understood" is most of what I'm interested in.**
 
-philosophy:  "I'd rather understand why a number moved
-              than produce a chart faster."
-```
-
-I came to data science from statistics. My MSc was in statistical theory and inference; the Master
-of Data Science at JCU is where that turns into working software and dashboards other people can
-actually use. **The gap between "the analysis is correct" and "the analysis is understood" is most
-of what I'm interested in.**
+> I'd rather understand why a number moved than produce a chart faster.
 
 ---
 
 ## 🧰 Tools I work with
 
-<div align="center">
+<h4 align="center">Analysis &amp; programming</h4>
+<p align="center">
+  <img height="52" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="R" title="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="pandas" title="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="NumPy" title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="Matplotlib" title="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="Jupyter" title="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="Anaconda" title="Anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
+</p>
 
-<!-- skillicons.dev — only tools it actually carries icons for -->
-<img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,sqlite,anaconda,vscode,git,github,markdown,latex&theme=dark&perline=11" alt="skill icons" />
+<h4 align="center">Databases &amp; SQL</h4>
+<p align="center">
+  <img height="52" alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="SQLite" title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="SQL Server" title="Microsoft SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+</p>
 
-<br/><br/>
+<h4 align="center">Visualisation &amp; reporting</h4>
+<p align="center">
+  <img height="52" alt="Power BI" title="Power BI — DAX, Power Query, M" src="https://img.icons8.com/color/96/power-bi.png">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="Excel" title="Excel" src="https://img.icons8.com/color/96/microsoft-excel-2019.png">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="Tableau" title="Tableau" src="https://img.icons8.com/color/96/tableau-software.png">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="Matplotlib" title="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
+</p>
+<p align="center"><sub>Inside Power BI: DAX &nbsp;•&nbsp; Power Query / M &nbsp;•&nbsp; star-schema modelling &nbsp;•&nbsp; row-level security</sub></p>
 
-**📊 Analysis & programming**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
-
-**📈 Visualisation & reporting**
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/DAX-01A88D?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
-**⚙️ Workflow**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-
-</div>
+<h4 align="center">Workflow</h4>
+<p align="center">
+  <img height="52" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="GitHub" title="GitHub" src="https://skillicons.dev/icons?i=github">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="PyCharm" title="PyCharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="Markdown" title="Markdown" src="https://skillicons.dev/icons?i=md">&nbsp;&nbsp;&nbsp;
+  <img height="52" alt="LaTeX" title="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg">
+</p>
 
 ---
 
-## 🔨 Selected work
+## 🛠️ Selected work
 
-<div align="center">
+<!-- CHECK: the first two repo names are my best guess — open each repo and
+     confirm the slug in the address bar, then fix the links + pin cards below. -->
 
-<a href="https://github.com/nahid-adnan/naplan-qld-equity-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahid-adnan&repo=naplan-qld-equity-dashboard&theme=tokyonight&hide_border=true&bg_color=0F2027" />
-</a>
-<a href="https://github.com/nahid-adnan/Tasmania-short-stay-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahid-adnan&repo=Tasmania-short-stay-dashboard&theme=tokyonight&hide_border=true&bg_color=0F2027" />
-</a>
-<a href="https://github.com/nahid-adnan/blue-v-red">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahid-adnan&repo=blue-v-red&theme=tokyonight&hide_border=true&bg_color=0F2027" />
-</a>
-<a href="https://github.com/nahid-adnan/cp5639-python-practicals">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahid-adnan&repo=cp5639-python-practicals&theme=tokyonight&hide_border=true&bg_color=0F2027" />
-</a>
+<table>
+  <tr>
+    <td width="30%">
+      <a href="https://github.com/nahid-adnan/naplan-qld-equity-dashboard"><b>📊 NAPLAN QLD equity dashboard</b></a>
+    </td>
+    <td>
+      Where the equity gaps sit in Queensland schooling — 1,369 schools, 3 report pages, a 60,236-row fact table.
+      Suppressed results are handled as suppressed, not as zero.
+    </td>
+    <td width="22%">
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black">
+      <img src="https://img.shields.io/badge/DAX-0B2030?style=flat-square">
+      <img src="https://img.shields.io/badge/Power_Query-306998?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nahid-adnan/tasmania-short-stay-dashboard"><b>🏝️ Tasmania short-stay dashboard</b></a>
+    </td>
+    <td>
+      5,293 listings and a $145.3M estimated revenue pool across 5 linked pages, with what-if repricing so a reader
+      can test a scenario instead of asking for a new chart.
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black">
+      <img src="https://img.shields.io/badge/DAX-0B2030?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nahid-adnan/blue-v-red"><b>🎮 blue-v-red</b></a>
+    </td>
+    <td>
+      A probabilistic CLI game that logs every round to CSV and then analyses itself — the log is the dataset.
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nahid-adnan/cp5639-python-practicals"><b>🐍 cp5639-python-practicals</b></a>
+    </td>
+    <td>
+      Six practicals working up from conditionals to structured data.
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Pure_Python_3-3776AB?style=flat-square&logo=python&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nahid-adnan/cp1401-assignment-1"><b>💻 cp1401-assignment-1</b></a>
+    </td>
+    <td>
+      Three Input-Process-Output programs.
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Pure_Python_3-3776AB?style=flat-square&logo=python&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-</div>
+<!--
+  These repo cards are generated by .github/workflows/readme-cards.yml and
+  committed into assets/ — so they can never show as broken images.
+  Uncomment once the workflow has run at least once.
 
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| 📊 [**NAPLAN QLD equity dashboard**](https://github.com/nahid-adnan/naplan-qld-equity-dashboard) | Where the equity gaps sit in Queensland schooling — 1,369 schools, 3 report pages, 60,236-row fact table | `Power BI` `DAX` `Power Query` |
-| 🏝️ [**Tasmania short-stay dashboard**](https://github.com/nahid-adnan/Tasmania-short-stay-dashboard) | 5,293 listings, $145.3M estimated revenue pool, 5 linked pages, what-if repricing | `Power BI` `DAX` |
-| 🎮 [**blue-v-red**](https://github.com/nahid-adnan/blue-v-red) | Probabilistic CLI game that logs every round to CSV and then analyses itself | `Python` `pandas` `matplotlib` |
-| 🐍 [**cp5639-python-practicals**](https://github.com/nahid-adnan/cp5639-python-practicals) | Six practicals, conditionals through to structured data | `Pure Python 3` |
-| ⌨️ [**cp1401-assignment-1**](https://github.com/nahid-adnan/cp1401-assignment-1) | Three Input-Process-Output programs | `Pure Python 3` |
+<p align="center">
+  <a href="https://github.com/nahid-adnan/naplan-qld-equity-dashboard"><img width="49%" src="./assets/pin-naplan.svg"></a>
+  <a href="https://github.com/nahid-adnan/tasmania-short-stay-dashboard"><img width="49%" src="./assets/pin-tasmania.svg"></a>
+</p>
+-->
 
 ---
 
 ## 🧠 How I approach a dataset
 
-> 🔍 **Understand the gaps before the numbers** — missing and suppressed values are decisions, not noise. Treating a suppressed result as zero quietly turns an unreported school into a failing one.
->
-> 📐 **Encode for accuracy, not decoration** — position and length where a reader must compare precisely; colour and area only for secondary information.
->
-> 🧾 **State the limitations on the page** — a dashboard that hides its own coverage problems isn't defensible when someone quotes it in a briefing.
->
-> 🔁 **Build it so it can be rebuilt** — documented transformations, named measures, a model someone else can open and follow.
->
-> 🎯 **Design for the reader, not the analyst** — a time-poor officer should get something useful in the first five seconds, before touching a filter.
+<table>
+  <tr>
+    <td width="42" align="center">🔍</td>
+    <td><b>Understand the gaps before the numbers.</b> Missing and suppressed values are decisions, not noise. Treating a suppressed result as zero quietly turns an unreported school into a failing one.</td>
+  </tr>
+  <tr>
+    <td align="center">📐</td>
+    <td><b>Encode for accuracy, not decoration.</b> Position and length where a reader must compare precisely; colour and area only for secondary information.</td>
+  </tr>
+  <tr>
+    <td align="center">📋</td>
+    <td><b>State the limitations on the page.</b> A dashboard that hides its own coverage problems isn't defensible when someone quotes it in a briefing.</td>
+  </tr>
+  <tr>
+    <td align="center">🔁</td>
+    <td><b>Build it so it can be rebuilt.</b> Documented transformations, named measures, a model someone else can open and follow.</td>
+  </tr>
+  <tr>
+    <td align="center">🎯</td>
+    <td><b>Design for the reader, not the analyst.</b> A time-poor officer should get something useful in the first five seconds, before touching a filter.</td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub in numbers
 
-<div align="center">
+<!--
+  These two cards are generated nightly by .github/workflows/readme-cards.yml
+  and committed to this repo, so the numbers are real and the images never
+  break. Run that workflow once before your first push.
+-->
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nahid-adnan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=2CB5E8&icon_color=F2C811" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-adnan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=2CB5E8" />
+<p align="center">
+  <img width="49%" alt="GitHub stats" src="./assets/stats.svg">
+  <img width="42%" alt="Top languages" src="./assets/top-langs.svg">
+</p>
 
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=nahid-adnan&theme=tokyonight&hide_border=true&background=0F2027&ring=2CB5E8&fire=F2C811&currStreakLabel=2CB5E8" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nahid-adnan&theme=tokyo-night&hide_border=true&bg_color=0F2027&color=2CB5E8&line=F2C811&point=ffffff&area=true" />
-
-</div>
-
----
-
-## 🐍 Watch the snake eat my contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/github-snake.svg" />
-</picture>
-
-</div>
+<p align="center">
+  <a href="https://github.com/nahid-adnan?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nahid-adnan&query=$.public_repos&style=for-the-badge&label=Public%20repos&color=306998&labelColor=0B2030" alt="Public repos"></a>
+  <a href="https://github.com/nahid-adnan?tab=followers"><img src="https://img.shields.io/github/followers/nahid-adnan?style=for-the-badge&label=Followers&color=4B8BBE&labelColor=0B2030" alt="Followers"></a>
+</p>
 
 ---
 
-## 🏆 Trophies
+## 🐍 Contributions, eaten in Python colours
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nahid-adnan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-light.svg">
+    <img alt="Contribution snake" width="100%" src="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-dark.svg">
+  </picture>
 </div>
+
+<p align="center"><sub>Yellow snake on Python blue in dark mode, blue snake on Python yellow in light mode. Regenerates every 12 hours.</sub></p>
 
 ---
 
-## 🌱 What I'm learning next
+<h3 align="center">Say hello</h3>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/nahid-hasan-a8767114b/" title="LinkedIn">
+    <img height="72" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:nahid316unmad@gmail.com" title="Email">
+    <img height="72" src="https://skillicons.dev/icons?i=gmail" alt="Email">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nahid-adnan" title="GitHub">
+    <img height="72" src="https://skillicons.dev/icons?i=github" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- CHECK: paste your real YouTube channel URL here -->
+  <a href="https://www.youtube.com/" title="YouTube">
+    <img height="72" src="https://img.icons8.com/color/144/youtube-play.png" alt="YouTube">
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/Advanced_DAX-time_intelligence-01A88D?style=flat-square" />
-<img src="https://img.shields.io/badge/SQL-window_functions_&_optimisation-4479A1?style=flat-square" />
-<img src="https://img.shields.io/badge/R-statistical_modelling-276DC3?style=flat-square" />
-<img src="https://img.shields.io/badge/Cloud-data_tools-2CB5E8?style=flat-square" />
-
-</div>
-
----
-
-## 📬 Reach me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nahid-hasan-a8767114b">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:nahid34618@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/nahid-adnan">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@nahidhasan7785">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=F2C811&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Based+in+Cairns%2C+QLD;Open+to+Data+Analyst+roles+in+Brisbane" alt="footer typing" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2CB5E8,50:203A43,100:0F2027" width="100%" alt="footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2030,50:306998,100:4B8BBE&height=130&section=footer&text=Based%20in%20Cairns,%20QLD&fontColor=FFD43B&fontSize=22&fontAlignY=72&animation=fadeIn" width="100%">
