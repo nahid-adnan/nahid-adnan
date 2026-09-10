@@ -3,21 +3,9 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nahid-hasan-a8767114b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:nahid316unmad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-C5221F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/nahid-adnan?tab=followers">
-    <img src="https://img.shields.io/github/followers/nahid-adnan?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=306998" alt="Followers">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nahid-adnan&style=for-the-badge&label=Profile+views&color=0B2030" alt="Profile views">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cairns,%20QLD-0B2030?style=for-the-badge&logo=googlemaps&logoColor=FFD43B" alt="Cairns, QLD">
-  <img src="https://img.shields.io/badge/Open%20to-Data%20analyst%20roles-FFD43B?style=for-the-badge&labelColor=0B2030" alt="Open to data analyst roles">
+  <a href="https://github.com/nahid-adnan?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nahid-adnan&query=$.public_repos&style=for-the-badge&label=Public%20repos&color=306998&labelColor=0B2030" alt="Public repos"></a>
+  <img src="https://komarev.com/ghpvc/?username=nahid-adnan&style=for-the-badge&label=Profile+views&color=306998&labelColor=0B2030" alt="Profile views">
+  <a href="https://github.com/nahid-adnan?tab=followers"><img src="https://img.shields.io/github/followers/nahid-adnan?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=306998&labelColor=0B2030" alt="Followers"></a>
 </p>
 
 ---
@@ -172,11 +160,6 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 <div align="center">
   <img width="72%" alt="Contribution streak" src="./assets/streak.svg">
 </div>
-
-<p align="center">
-  <a href="https://github.com/nahid-adnan?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nahid-adnan&query=$.public_repos&style=for-the-badge&label=Public%20repos&color=306998&labelColor=0B2030" alt="Public repos"></a>
-  <a href="https://github.com/nahid-adnan?tab=followers"><img src="https://img.shields.io/github/followers/nahid-adnan?style=for-the-badge&label=Followers&color=4B8BBE&labelColor=0B2030" alt="Followers"></a>
-</p>
 
 ---
 
