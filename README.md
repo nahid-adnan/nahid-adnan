@@ -83,7 +83,6 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 > I'd rather understand why a number moved than produce a chart faster.
 
 ---
-
 ## 🧰 Tools I work with
 
 <div align="center">
@@ -91,6 +90,8 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 </div>
 
 <p align="center"><sub>Inside Power BI: DAX &nbsp;•&nbsp; Power Query / M &nbsp;•&nbsp; star-schema modelling &nbsp;•&nbsp; row-level security</sub></p>
+
+---
 
 ---
 
