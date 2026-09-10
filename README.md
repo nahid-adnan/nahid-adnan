@@ -3,8 +3,9 @@
   BEFORE YOU COMMIT — 3 things to check (search for "CHECK:")
     1. Repo slugs in "Selected work" — I guessed two of them.
     2. Your YouTube channel URL at the bottom.
-    3. Run the two workflows in .github/workflows/ once each
-       (Actions tab → Run workflow) so the stats + snake SVGs exist.
+    3. Run the workflows in .github/workflows/ once each
+       (Actions tab → Run workflow) so the card + snake SVGs exist.
+       The cards will show as broken images until profile-cards.yml runs.
   ─────────────────────────────────────────────────────────────
 -->
 
@@ -207,20 +208,20 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 ## 📊 GitHub stats
 
 <div align="center">
-  <img width="100%" alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahid-adnan&theme=github_dark&animation=rgb-soft&name=Nahid">
+  <img width="100%" alt="Profile summary" src="./assets/cards/profile-details.svg">
 </div>
 
 <div align="center">
-  <img width="49%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahid-adnan&theme=github_dark&animation=rgb-soft">
-  <img width="49%" alt="Most used language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahid-adnan&theme=github_dark&animation=rgb-soft">
+  <img width="49%" alt="Stats" src="./assets/cards/stats.svg">
+  <img width="49%" alt="Most used language" src="./assets/cards/languages.svg">
 </div>
 
 <div align="center">
-  <img width="60%" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahid-adnan&theme=github_dark&utcOffset=10&animation=rgb-soft">
+  <img width="60%" alt="Productive time" src="./assets/cards/productive-time.svg">
 </div>
 
 <div align="center">
-  <img width="72%" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=nahid-adnan&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <img width="72%" alt="Contribution streak" src="./assets/cards/streak.svg">
 </div>
 
 <p align="center">
