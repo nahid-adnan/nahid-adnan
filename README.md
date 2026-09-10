@@ -223,18 +223,13 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 </p>
 
 ---
-
-## 🐍 Contributions, eaten in Python colours
+## 🐍 Contribution snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-light.svg">
-    <img alt="Contribution snake" width="100%" src="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-dark.svg">
-  </picture>
+  <img alt="Contribution snake" width="100%" src="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-dark.svg">
 </div>
 
-<p align="center"><sub>Yellow snake on Python blue in dark mode, blue snake on Python yellow in light mode. Regenerates every 12 hours.</sub></p>
+<p align="center"><sub>Regenerates every 12 hours.</sub></p>
 
 ---
 
