@@ -10,29 +10,31 @@
 
 ---
 
-## 🧭 About me
+## 🤖 About me
 
 <div align="center">
   <img src="./assets/workspace.svg" alt="Building dashboards" width="100%">
 </div>
 
+I came to data science from statistics. My MSc at Jahangirnagar University was in statistical theory and inference — the mathematics of why an estimate can be trusted at all. The Master of Data Science at James Cook University is where that turns into something usable: Power BI models a policy officer can open without a walkthrough, Python and R that still runs the same way next month, SQL another analyst can read. Most of my work sits in the gap between **"the analysis is correct"** and **"the analysis is understood"** — and in practice that gap is where the real problem usually is.
+
+<p align="center"><i>I'd rather understand why a number moved than produce a chart faster.</i></p>
+
 <p align="center">
-  <a href="https://www.jcu.edu.au/"><img src="https://img.shields.io/badge/Studying-Master%20of%20Data%20Science%20%40%20JCU-306998?style=for-the-badge&labelColor=0B2030" alt="Studying at James Cook University"></a>
-  <a href="https://juniv.edu/"><img src="https://img.shields.io/badge/Before%20that-MSc%20and%20BSc%20Statistics-4B8BBE?style=for-the-badge&labelColor=0B2030" alt="MSc and BSc Statistics, Jahangirnagar University"></a>
+  <a href="https://www.jcu.edu.au/"><img src="https://img.shields.io/badge/Studying-Master%20of%20Data%20Science%20%E2%80%A2%20James%20Cook%20University-E8590C?style=for-the-badge&labelColor=15202B" alt="Master of Data Science, James Cook University"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Doing%20now-Power%20BI%20%C2%B7%20Python%20%C2%B7%20R%20%C2%B7%20SQL-1F6F8B?style=for-the-badge&labelColor=0B2030" alt="Power BI, Python, R, SQL">
+  <a href="https://juniv.edu/"><img src="https://img.shields.io/badge/Before%20that-MSc%20%26%20BSc%20Statistics%20%E2%80%A2%20Jahangirnagar%20University-2F9E44?style=for-the-badge&labelColor=15202B" alt="MSc and BSc Statistics, Jahangirnagar University"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Data%20analyst%20roles-FFD43B?style=for-the-badge&labelColor=0B2030" alt="Open to data analyst roles">
-  <img src="https://img.shields.io/badge/Based%20in-Cairns%2C%20QLD-0B2030?style=for-the-badge&logo=googlemaps&logoColor=FFD43B" alt="Based in Cairns, QLD">
+  <img src="https://img.shields.io/badge/Doing%20now-15202B?style=for-the-badge" alt="Doing now">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/SQL-E03131?style=for-the-badge" alt="SQL">
 </p>
-
-I came to data science from statistics. My MSc was in statistical theory and inference; the Master of Data Science at JCU is where that turns into working software and dashboards other people can actually use. **The gap between "the analysis is correct" and "the analysis is understood" is most of what I'm interested in.**
-
-> I'd rather understand why a number moved than produce a chart faster.
 
 ---
 
