@@ -148,7 +148,7 @@ I came to data science from statistics. My MSc was in statistical theory and inf
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/nahid-adnan/tasmania-short-stay-dashboard"><b>🏝️ Tasmania short-stay dashboard</b></a>
+      <a href="https://github.com/nahid-adnan/Tasmania-short-stay-dashboard"><b>🏝️ Tasmania short-stay dashboard</b></a>
     </td>
     <td>
       5,293 listings and a $145.3M estimated revenue pool across 5 linked pages, with what-if repricing so a reader
@@ -203,7 +203,7 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 
 <p align="center">
   <a href="https://github.com/nahid-adnan/naplan-qld-equity-dashboard"><img width="49%" src="./assets/pin-naplan.svg"></a>
-  <a href="https://github.com/nahid-adnan/tasmania-short-stay-dashboard"><img width="49%" src="./assets/pin-tasmania.svg"></a>
+  <a href="https://github.com/nahid-adnan/Tasmania-short-stay-dashboard"><img width="49%" src="./assets/pin-tasmania.svg"></a>
 </p>
 -->
 
@@ -286,7 +286,7 @@ I came to data science from statistics. My MSc was in statistical theory and inf
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- CHECK: paste your real YouTube channel URL here -->
-  <a href="https://www.youtube.com/" title="YouTube">
+  <a href="https://www.youtube.com/@nahidhasan7785@nahidhasan7785@nahidhasan7785" title="YouTube">
     <img height="72" src="https://img.icons8.com/color/144/youtube-play.png" alt="YouTube">
   </a>
 </p>
