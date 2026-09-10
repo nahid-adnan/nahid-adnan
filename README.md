@@ -212,16 +212,12 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 
 <div align="center">
   <img width="49%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahid-adnan&theme=github_dark&animation=rgb-soft">
-  <img width="49%" alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahid-adnan&theme=github_dark&animation=rgb-soft">
+  <img width="49%" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=nahid-adnan&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
 <div align="center">
   <img width="49%" alt="Most used language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahid-adnan&theme=github_dark&animation=rgb-soft">
   <img width="49%" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahid-adnan&theme=github_dark&utcOffset=10&animation=rgb-soft">
-</div>
-
-<div align="center">
-  <img width="72%" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=nahid-adnan&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
 <p align="center">
