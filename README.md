@@ -206,16 +206,23 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 
 ## 📊 GitHub in numbers
 
-<!--
-  These two cards are generated nightly by .github/workflows/readme-cards.yml
-  and committed to this repo, so the numbers are real and the images never
-  break. Run that workflow once before your first push.
--->
+<div align="center">
+  <img width="100%" alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahid-adnan&theme=github_dark&animation=rgb-soft">
+</div>
 
-<p align="center">
-  <img width="49%" alt="GitHub stats" src="./assets/stats.svg">
-  <img width="42%" alt="Top languages" src="./assets/top-langs.svg">
-</p>
+<div align="center">
+  <img width="49%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahid-adnan&theme=github_dark&animation=rgb-soft">
+  <img width="49%" alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahid-adnan&theme=github_dark&animation=rgb-soft">
+</div>
+
+<div align="center">
+  <img width="49%" alt="Most used language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahid-adnan&theme=github_dark&animation=rgb-soft">
+  <img width="49%" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahid-adnan&theme=github_dark&utcOffset=10&animation=rgb-soft">
+</div>
+
+<div align="center">
+  <img width="72%" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=nahid-adnan&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+</div>
 
 <p align="center">
   <a href="https://github.com/nahid-adnan?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nahid-adnan&query=$.public_repos&style=for-the-badge&label=Public%20repos&color=306998&labelColor=0B2030" alt="Public repos"></a>
@@ -223,13 +230,18 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 </p>
 
 ---
-## 🐍 Contribution snake
+
+## 🐍 Contributions, eaten in Python colours
 
 <div align="center">
-  <img alt="Contribution snake" width="100%" src="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-dark.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-light.svg">
+    <img alt="Contribution snake" width="100%" src="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-dark.svg">
+  </picture>
 </div>
 
-<p align="center"><sub>Regenerates every 12 hours.</sub></p>
+<p align="center"><sub>Yellow snake on Python blue in dark mode, blue snake on Python yellow in light mode. Regenerates every 12 hours.</sub></p>
 
 ---
 
