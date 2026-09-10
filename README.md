@@ -53,6 +53,10 @@
   <img src="https://img.shields.io/badge/Cloud%20data%20tools-22B8CF?style=for-the-badge" alt="Cloud data tools">
 </p>
 
+<div align="center">
+  <img src="./assets/quote.svg" alt="I'd rather understand why a number moved than produce a chart faster" width="100%">
+</div>
+
 ---
 
 ## 🧰 Tools I work with
