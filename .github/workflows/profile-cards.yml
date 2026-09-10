@@ -1,0 +1,72 @@
+name: Profile cards
+
+# Generates all five stat cards as static SVGs in assets/cards/.
+# Two reasons this is done locally instead of hot-linking the APIs:
+#   1. All five load from the same origin at the same time, so their
+#      colour-cycle animations stay in step.
+#   2. No more "Cards are temporarily rate limited" error cards.
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily, 03:00 UTC
+  workflow_dispatch:       # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    env:
+      USER_NAME: nahid-adnan
+      DISPLAY_NAME: Nahid
+      THEME: github_dark
+      STREAK_THEME: github-dark-blue
+      UTC_OFFSET: "10"
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch summary cards
+        run: |
+          mkdir -p assets/cards
+          BASE="https://github-profile-summary-cards.vercel.app/api/cards"
+          A="animation=rgb-soft"
+
+          fetch () {  # fetch <output-name> <query>
+            for attempt in 1 2 3; do
+              curl -sfS --max-time 60 "$2" -o "assets/cards/$1.svg" && \
+                grep -q "<svg" "assets/cards/$1.svg" && \
+                ! grep -qi "rate limited" "assets/cards/$1.svg" && return 0
+              echo "retry $attempt for $1"; sleep 20
+            done
+            echo "::error::could not fetch $1"; return 1
+          }
+
+          fetch profile-details "$BASE/profile-details?username=$USER_NAME&theme=$THEME&$A&name=$DISPLAY_NAME"
+          fetch stats           "$BASE/stats?username=$USER_NAME&theme=$THEME&$A"
+          fetch languages       "$BASE/most-commit-language?username=$USER_NAME&theme=$THEME&$A"
+          fetch productive-time "$BASE/productive-time?username=$USER_NAME&theme=$THEME&utcOffset=$UTC_OFFSET&$A"
+
+      - name: Fetch streak card and inject the matching animation
+        run: |
+          curl -sfS --max-time 60 \
+            "https://streak-stats.demolab.com/?user=$USER_NAME&theme=$STREAK_THEME&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" \
+            -o /tmp/streak-raw.svg
+          python3 scripts/inject-rgb.py /tmp/streak-raw.svg assets/cards/streak.svg
+
+      - name: Verify all five share the same animation
+        run: |
+          fail=0
+          for f in assets/cards/*.svg; do
+            python3 -c "import xml.etree.ElementTree as E,sys;E.parse(sys.argv[1])" "$f" || fail=1
+            grep -q "gpsc-rgb 5s linear infinite" "$f" || { echo "::error::$f missing animation"; fail=1; }
+          done
+          exit $fail
+
+      - name: Commit
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/cards
+          git diff --staged --quiet || git commit -m "chore: refresh profile cards"
+          git push
