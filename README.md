@@ -90,38 +90,54 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 <p align="center">
   <img height="52" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;
   <img height="52" alt="R" title="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">&nbsp;&nbsp;&nbsp;
-  <img height="52" alt="pandas" title="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">&nbsp;&nbsp;&nbsp;
-  <img height="52" alt="NumPy" title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">&nbsp;&nbsp;&nbsp;
-  <img height="52" alt="Matplotlib" title="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">&nbsp;&nbsp;&nbsp;
-  <img height="52" alt="Jupyter" title="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">&nbsp;&nbsp;&nbsp;
-  <img height="52" alt="Anaconda" title="Anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
+  <img height="46" alt="pandas" title="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="50" alt="NumPy" title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="46" alt="Matplotlib" title="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="48" alt="Bash" title="Bash / shell" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
 </p>
 
-<h4 align="center">Databases &amp; SQL</h4>
+<h4 align="center">Statistical software</h4>
 <p align="center">
-  <img height="52" alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="48" alt="SAS" title="SAS" src="./assets/icons/sas.svg">&nbsp;&nbsp;&nbsp;
+  <img height="48" alt="SPSS" title="IBM SPSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="48" alt="Stata" title="Stata" src="./assets/icons/stata.svg">
+</p>
+
+<h4 align="center">Databases &amp; data processing</h4>
+<p align="center">
+  <img height="48" alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">&nbsp;&nbsp;&nbsp;
   <img height="52" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;
   <img height="52" alt="SQLite" title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">&nbsp;&nbsp;&nbsp;
-  <img height="52" alt="SQL Server" title="Microsoft SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+  <img height="48" alt="Azure SQL Database" title="Azure SQL Database" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="48" alt="Apache Spark" title="Apache Spark" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg">
 </p>
 
 <h4 align="center">Visualisation &amp; reporting</h4>
 <p align="center">
-  <img height="52" alt="Power BI" title="Power BI — DAX, Power Query, M" src="https://img.icons8.com/color/96/power-bi.png">&nbsp;&nbsp;&nbsp;
-  <img height="52" alt="Excel" title="Excel" src="https://img.icons8.com/color/96/microsoft-excel-2019.png">&nbsp;&nbsp;&nbsp;
-  <img height="52" alt="Tableau" title="Tableau" src="https://img.icons8.com/color/96/tableau-software.png">&nbsp;&nbsp;&nbsp;
-  <img height="52" alt="Matplotlib" title="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
+  <img height="48" alt="Power BI" title="Power BI" src="https://img.icons8.com/color/96/power-bi.png">&nbsp;&nbsp;&nbsp;
+  <img height="48" alt="Excel" title="Excel" src="https://img.icons8.com/color/96/microsoft-excel-2019.png">&nbsp;&nbsp;&nbsp;
+  <img height="46" alt="Tableau" title="Tableau" src="https://img.icons8.com/color/96/tableau-software.png">
 </p>
 <p align="center"><sub>Inside Power BI: DAX &nbsp;•&nbsp; Power Query / M &nbsp;•&nbsp; star-schema modelling &nbsp;•&nbsp; row-level security</sub></p>
 
-<h4 align="center">Workflow</h4>
+<h4 align="center">Notebooks &amp; environments</h4>
 <p align="center">
-  <img height="52" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;&nbsp;&nbsp;
-  <img height="52" alt="GitHub" title="GitHub" src="https://skillicons.dev/icons?i=github">&nbsp;&nbsp;&nbsp;
-  <img height="52" alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">&nbsp;&nbsp;&nbsp;
-  <img height="52" alt="PyCharm" title="PyCharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">&nbsp;&nbsp;&nbsp;
-  <img height="52" alt="Markdown" title="Markdown" src="https://skillicons.dev/icons?i=md">&nbsp;&nbsp;&nbsp;
-  <img height="52" alt="LaTeX" title="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg">
+  <img height="46" alt="Jupyter" title="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="46" alt="Google Colab" title="Google Colab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="44" alt="Anaconda" title="Anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="48" alt="RStudio" title="RStudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="50" alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="48" alt="PyCharm" title="PyCharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
+</p>
+
+<h4 align="center">Cloud &amp; workflow</h4>
+<p align="center">
+  <img height="48" alt="Microsoft Azure" title="Microsoft Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="50" alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="50" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="46" alt="GitHub" title="GitHub" src="https://skillicons.dev/icons?i=github">&nbsp;&nbsp;&nbsp;
+  <img height="46" alt="Markdown" title="Markdown" src="https://skillicons.dev/icons?i=md">&nbsp;&nbsp;&nbsp;
+  <img height="46" alt="LaTeX" title="LaTeX" src="https://skillicons.dev/icons?i=latex">
 </p>
 
 ---
@@ -148,7 +164,7 @@ I came to data science from statistics. My MSc was in statistical theory and inf
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/nahid-adnan/Tasmania-short-stay-dashboard"><b>🏝️ Tasmania short-stay dashboard</b></a>
+      <a href="https://github.com/nahid-adnan/tasmania-short-stay-dashboard"><b>🏝️ Tasmania short-stay dashboard</b></a>
     </td>
     <td>
       5,293 listings and a $145.3M estimated revenue pool across 5 linked pages, with what-if repricing so a reader
@@ -203,7 +219,7 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 
 <p align="center">
   <a href="https://github.com/nahid-adnan/naplan-qld-equity-dashboard"><img width="49%" src="./assets/pin-naplan.svg"></a>
-  <a href="https://github.com/nahid-adnan/Tasmania-short-stay-dashboard"><img width="49%" src="./assets/pin-tasmania.svg"></a>
+  <a href="https://github.com/nahid-adnan/tasmania-short-stay-dashboard"><img width="49%" src="./assets/pin-tasmania.svg"></a>
 </p>
 -->
 
@@ -286,7 +302,7 @@ I came to data science from statistics. My MSc was in statistical theory and inf
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- CHECK: paste your real YouTube channel URL here -->
-  <a href="https://www.youtube.com/@nahidhasan7785@nahidhasan7785@nahidhasan7785" title="YouTube">
+  <a href="https://www.youtube.com/" title="YouTube">
     <img height="72" src="https://img.icons8.com/color/144/youtube-play.png" alt="YouTube">
   </a>
 </p>
