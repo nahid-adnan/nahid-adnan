@@ -17,56 +17,22 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cairns,%20QLD-0B2030?style=for-the-badge&logo=googlemaps&logoColor=FFD43B" alt="Cairns, QLD">
-  <img src="https://img.shields.io/badge/Open%20to-Data%20analyst%20roles%20in%20Brisbane-FFD43B?style=for-the-badge&labelColor=0B2030" alt="Open to data analyst roles in Brisbane">
+  <img src="https://img.shields.io/badge/Open%20to-Data%20analyst%20roles-FFD43B?style=for-the-badge&labelColor=0B2030" alt="Open to data analyst roles">
 </p>
 
 ---
 
 ## 🧭 About me
 
-<table>
-  <tr>
-    <td width="42" align="center">🎓</td>
-    <td width="150"><b>Studying</b></td>
-    <td>
-      Master of Data Science <i>(in progress)</i><br>
-      <a href="https://www.jcu.edu.au/"><img src="https://img.shields.io/badge/James%20Cook%20University-002B49?style=for-the-badge&logoColor=white" alt="James Cook University — jcu.edu.au"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">📐</td>
-    <td><b>Before that</b></td>
-    <td>
-      MSc + BSc in Statistics — statistical theory and inference<br>
-      <a href="https://juniv.edu/"><img src="https://img.shields.io/badge/Jahangirnagar%20University-14532D?style=for-the-badge&logoColor=white" alt="Jahangirnagar University — juniv.edu"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">💼</td>
-    <td><b>Doing now</b></td>
-    <td>Power BI dashboards, Python and R analysis, SQL modelling</td>
-  </tr>
-  <tr>
-    <td align="center">🎯</td>
-    <td><b>Looking for</b></td>
-    <td>Data analyst roles in Brisbane, Australia</td>
-  </tr>
-  <tr>
-    <td align="center">🛂</td>
-    <td><b>Work rights</b></td>
-    <td>485 post-study work visa pathway</td>
-  </tr>
-  <tr>
-    <td align="center">📍</td>
-    <td><b>Based in</b></td>
-    <td>Cairns, Queensland, Australia</td>
-  </tr>
-  <tr>
-    <td align="center">✉️</td>
-    <td><b>Reach me</b></td>
-    <td><a href="mailto:nahid316unmad@gmail.com">nahid316unmad@gmail.com</a></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/workspace.svg" alt="Building dashboards" width="100%">
+</div>
+
+🎓&nbsp; I'm finishing a **Master of Data Science** at <a href="https://www.jcu.edu.au/">James Cook University</a>, after an **MSc and BSc in Statistics** at <a href="https://juniv.edu/">Jahangirnagar University</a>, where my master's was in statistical theory and inference.
+
+📊&nbsp; Day to day that means **Power BI** dashboards, analysis in **Python** and **R**, and **SQL** modelling — turning a question someone actually has into something they can open and read.
+
+🎯&nbsp; **Open to data analyst roles**, anywhere. 📍&nbsp; Currently based in Cairns, Queensland.
 
 I came to data science from statistics. My MSc was in statistical theory and inference; the Master of Data Science at JCU is where that turns into working software and dashboards other people can actually use. **The gap between "the analysis is correct" and "the analysis is understood" is most of what I'm interested in.**
 
@@ -205,13 +171,18 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 </p>
 
 ---
-## 🐍 Contribution snake
+
+## 🐍 Contributions, eaten in Python colours
 
 <div align="center">
-  <img alt="Contribution snake" width="100%" src="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-dark.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-light.svg">
+    <img alt="Contribution snake" width="100%" src="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-dark.svg">
+  </picture>
 </div>
 
-<p align="center"><sub>Regenerates every 12 hours.</sub></p>
+<p align="center"><sub>Yellow snake on Python blue in dark mode, blue snake on Python yellow in light mode. Regenerates every 12 hours.</sub></p>
 
 ---
 
@@ -225,6 +196,6 @@ I came to data science from statistics. My MSc was in statistical theory and inf
   <a href="https://www.youtube.com/@nahidhasan7785" title="YouTube"><img height="56" src="./assets/icons/youtube.svg" alt="YouTube"></a>
 </p>
 
-<p align="center"><sub>Open to data analyst roles in Brisbane. Always happy to talk data, dashboards, or statistics.</sub></p>
+<p align="center"><sub>Open to data analyst roles. Always happy to talk data, dashboards, or statistics.</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2030,50:306998,100:4B8BBE&height=130&section=footer&text=Based%20in%20Cairns,%20QLD&fontColor=FFD43B&fontSize=22&fontAlignY=72&animation=fadeIn" width="100%">
