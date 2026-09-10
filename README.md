@@ -28,11 +28,19 @@
   <img src="./assets/workspace.svg" alt="Building dashboards" width="100%">
 </div>
 
-🎓&nbsp; I'm finishing a **Master of Data Science** at <a href="https://www.jcu.edu.au/">James Cook University</a>, after an **MSc and BSc in Statistics** at <a href="https://juniv.edu/">Jahangirnagar University</a>, where my master's was in statistical theory and inference.
+<p align="center">
+  <a href="https://www.jcu.edu.au/"><img src="https://img.shields.io/badge/Studying-Master%20of%20Data%20Science%20%40%20JCU-306998?style=for-the-badge&labelColor=0B2030" alt="Studying at James Cook University"></a>
+  <a href="https://juniv.edu/"><img src="https://img.shields.io/badge/Before%20that-MSc%20and%20BSc%20Statistics-4B8BBE?style=for-the-badge&labelColor=0B2030" alt="MSc and BSc Statistics, Jahangirnagar University"></a>
+</p>
 
-📊&nbsp; Day to day that means **Power BI** dashboards, analysis in **Python** and **R**, and **SQL** modelling — turning a question someone actually has into something they can open and read.
+<p align="center">
+  <img src="https://img.shields.io/badge/Doing%20now-Power%20BI%20%C2%B7%20Python%20%C2%B7%20R%20%C2%B7%20SQL-1F6F8B?style=for-the-badge&labelColor=0B2030" alt="Power BI, Python, R, SQL">
+</p>
 
-🎯&nbsp; **Open to data analyst roles**, anywhere. 📍&nbsp; Currently based in Cairns, Queensland.
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Data%20analyst%20roles-FFD43B?style=for-the-badge&labelColor=0B2030" alt="Open to data analyst roles">
+  <img src="https://img.shields.io/badge/Based%20in-Cairns%2C%20QLD-0B2030?style=for-the-badge&logo=googlemaps&logoColor=FFD43B" alt="Based in Cairns, QLD">
+</p>
 
 I came to data science from statistics. My MSc was in statistical theory and inference; the Master of Data Science at JCU is where that turns into working software and dashboards other people can actually use. **The gap between "the analysis is correct" and "the analysis is understood" is most of what I'm interested in.**
 
@@ -172,17 +180,13 @@ I came to data science from statistics. My MSc was in statistical theory and inf
 
 ---
 
-## 🐍 Contributions, eaten in Python colours
+## 🐍 Contribution snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-light.svg">
-    <img alt="Contribution snake" width="100%" src="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-dark.svg">
-  </picture>
+  <img alt="Contribution snake" width="100%" src="https://raw.githubusercontent.com/nahid-adnan/nahid-adnan/output/snake-dark.svg">
 </div>
 
-<p align="center"><sub>Yellow snake on Python blue in dark mode, blue snake on Python yellow in light mode. Regenerates every 12 hours.</sub></p>
+<p align="center"><sub>Regenerates every 12 hours.</sub></p>
 
 ---
 
