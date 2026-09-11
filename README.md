@@ -139,4 +139,4 @@
 
 <p align="center"><sub>Open to data analyst roles. Always happy to talk data, dashboards, or statistics.</sub></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2030,50:306998,100:4B8BBE&height=130&section=footer&text=Based%20in%20Cairns,%20QLD&fontColor=FFD43B&fontSize=22&fontAlignY=72&animation=fadeIn" width="100%">
+<img src="./assets/location.svg" alt="Based in Cairns, Queensland" width="100%">
