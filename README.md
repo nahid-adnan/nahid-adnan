@@ -84,18 +84,15 @@
   <img src="./assets/approach.svg" alt="How I approach a dataset" width="100%">
 </div>
 
-<table>
-  <tr><td width="42" align="center">🔍</td>
-      <td><b>Understand the gaps before the numbers.</b> Missing and suppressed values are decisions, not noise. Treating a suppressed result as zero quietly turns an unreported school into a failing one.</td></tr>
-  <tr><td align="center">📐</td>
-      <td><b>Encode for accuracy, not decoration.</b> Position and length where a reader must compare precisely; colour and area only for secondary information.</td></tr>
-  <tr><td align="center">📋</td>
-      <td><b>State the limitations on the page.</b> A dashboard that hides its own coverage problems isn't defensible when someone quotes it in a briefing.</td></tr>
-  <tr><td align="center">🔁</td>
-      <td><b>Build it so it can be rebuilt.</b> Documented transformations, named measures, a model someone else can open and follow.</td></tr>
-  <tr><td align="center">🎯</td>
-      <td><b>Design for the reader, not the analyst.</b> A time-poor officer should get something useful in the first five seconds, before touching a filter.</td></tr>
-</table>
+🔍 &nbsp;**Understand the gaps before the numbers.** &nbsp;Missing and suppressed values are **decisions, not noise**. Treating a suppressed result as zero quietly turns an unreported school into a failing one.
+
+📏 &nbsp;**Encode for accuracy, not decoration.** &nbsp;**Position and length** where a reader must compare precisely; colour and area only for secondary information.
+
+⚠️ &nbsp;**State the limitations on the page.** &nbsp;A dashboard that **hides its own coverage problems** isn't defensible when someone quotes it in a briefing.
+
+⚙️ &nbsp;**Build it so it can be rebuilt.** &nbsp;Documented transformations, named measures, **a model someone else can open and follow**.
+
+🎯 &nbsp;**Design for the reader, not the analyst.** &nbsp;A time-poor officer should get something useful in **the first five seconds**, before touching a filter.
 
 ---
 
