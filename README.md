@@ -71,70 +71,15 @@
 
 ## 🛠️ Selected work
 
-<table>
-  <tr>
-    <td width="30%">
-      <a href="https://github.com/nahid-adnan/naplan-qld-equity-dashboard"><b>📊 NAPLAN QLD equity dashboard</b></a>
-    </td>
-    <td>
-      Where the equity gaps sit in Queensland schooling — 1,369 schools, 3 report pages, a 60,236-row fact table.
-      Suppressed results are handled as suppressed, not as zero.
-    </td>
-    <td width="22%">
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black">
-      <img src="https://img.shields.io/badge/DAX-0B2030?style=flat-square">
-      <img src="https://img.shields.io/badge/Power_Query-306998?style=flat-square">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/nahid-adnan/tasmania-short-stay-dashboard"><b>🏝️ Tasmania short-stay dashboard</b></a>
-    </td>
-    <td>
-      5,293 listings and a $145.3M estimated revenue pool across 5 linked pages, with what-if repricing so a reader
-      can test a scenario instead of asking for a new chart.
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black">
-      <img src="https://img.shields.io/badge/DAX-0B2030?style=flat-square">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/nahid-adnan/blue-v-red"><b>🎮 blue-v-red</b></a>
-    </td>
-    <td>
-      A probabilistic CLI game that logs every round to CSV and then analyses itself — the log is the dataset.
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/nahid-adnan/cp5639-python-practicals"><b>🐍 cp5639-python-practicals</b></a>
-    </td>
-    <td>
-      Six practicals working up from conditionals to structured data.
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Pure_Python_3-3776AB?style=flat-square&logo=python&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/nahid-adnan/cp1401-assignment-1"><b>💻 cp1401-assignment-1</b></a>
-    </td>
-    <td>
-      Three Input-Process-Output programs.
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Pure_Python_3-3776AB?style=flat-square&logo=python&logoColor=white">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/nahid-adnan/naplan-qld-equity-dashboard"><img src="./assets/work/naplan.svg" alt="NAPLAN QLD equity dashboard" width="100%"></a>
+  <a href="https://github.com/nahid-adnan/Tasmania-short-stay-dashboard"><img src="./assets/work/tasmania.svg" alt="Tasmania short-stay dashboard" width="100%"></a>
+  <a href="https://github.com/nahid-adnan/blue-v-red"><img src="./assets/work/blue-v-red.svg" alt="blue-v-red" width="100%"></a>
+  <a href="https://github.com/nahid-adnan/cp5639-python-practicals"><img src="./assets/work/cp5639.svg" alt="cp5639-python-practicals" width="100%"></a>
+  <a href="https://github.com/nahid-adnan/cp1401-assignment-1"><img src="./assets/work/cp1401.svg" alt="cp1401-assignment-1" width="100%"></a>
+</div>
+
+<p align="center"><sub>Every card links straight to its repository.</sub></p>
 
 ---
 
