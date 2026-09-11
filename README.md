@@ -69,17 +69,12 @@
 
 ---
 
-## 🛠️ Selected work
+## 🗂️ Things I have built
 
-<div align="center">
-  <a href="https://github.com/nahid-adnan/naplan-qld-equity-dashboard"><img src="./assets/work/naplan.svg" alt="NAPLAN QLD equity dashboard" width="100%"></a>
-  <a href="https://github.com/nahid-adnan/Tasmania-short-stay-dashboard"><img src="./assets/work/tasmania.svg" alt="Tasmania short-stay dashboard" width="100%"></a>
-  <a href="https://github.com/nahid-adnan/blue-v-red"><img src="./assets/work/blue-v-red.svg" alt="blue-v-red" width="100%"></a>
-  <a href="https://github.com/nahid-adnan/cp5639-python-practicals"><img src="./assets/work/cp5639.svg" alt="cp5639-python-practicals" width="100%"></a>
-  <a href="https://github.com/nahid-adnan/cp1401-assignment-1"><img src="./assets/work/cp1401.svg" alt="cp1401-assignment-1" width="100%"></a>
-</div>
+<p align="center"><a href="https://github.com/nahid-adnan/naplan-qld-equity-dashboard" title="NAPLAN QLD equity dashboard"><img src="./assets/work/naplan.svg" width="288" alt="NAPLAN QLD equity dashboard"></a><a href="https://github.com/nahid-adnan/Tasmania-short-stay-dashboard" title="Tasmania short-stay dashboard"><img src="./assets/work/tasmania.svg" width="288" alt="Tasmania short-stay dashboard"></a><a href="https://github.com/nahid-adnan/blue-v-red" title="blue-v-red"><img src="./assets/work/blue-v-red.svg" width="288" alt="blue-v-red"></a></p>
+<p align="center"><a href="https://github.com/nahid-adnan/cp5639-python-practicals" title="cp5639-python-practicals"><img src="./assets/work/cp5639.svg" width="288" alt="cp5639-python-practicals"></a><a href="https://github.com/nahid-adnan/cp1401-assignment-1" title="cp1401-assignment-1"><img src="./assets/work/cp1401.svg" width="288" alt="cp1401-assignment-1"></a></p>
 
-<p align="center"><sub>Every card links straight to its repository.</sub></p>
+<p align="center"><sub>Every tile opens its repository. The panel inside each one is that project, running.</sub></p>
 
 ---
 
