@@ -23,7 +23,7 @@
   <line x1="330" y1="34" x2="330" y2="161" stroke="#30363D" stroke-width="1"/>
 
   <g class="fade" style="animation-delay:.10s">
-    <text class="num" x="82.5" y="86"  text-anchor="middle">131</text>
+    <text class="num" x="82.5" y="86"  text-anchor="middle">132</text>
     <text class="lab" x="82.5" y="116" text-anchor="middle">Total Contributions</text>
     <text class="dt"  x="82.5" y="140" text-anchor="middle">Apr 5 - Present</text>
   </g>
