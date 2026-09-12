@@ -23,14 +23,14 @@
   <line x1="330" y1="34" x2="330" y2="161" stroke="#30363D" stroke-width="1"/>
 
   <g class="fade" style="animation-delay:.10s">
-    <text class="num" x="82.5" y="86"  text-anchor="middle">144</text>
+    <text class="num" x="82.5" y="86"  text-anchor="middle">150</text>
     <text class="lab" x="82.5" y="116" text-anchor="middle">Total Contributions</text>
     <text class="dt"  x="82.5" y="140" text-anchor="middle">Apr 5 - Present</text>
   </g>
 
   <g class="fade" style="animation-delay:.25s">
     <circle class="ring" cx="247.5" cy="82" r="42"/>
-    <text class="num" x="247.5" y="95" text-anchor="middle">2</text>
+    <text class="num" x="247.5" y="95" text-anchor="middle">3</text>
     <text class="curLab" x="247.5" y="140" text-anchor="middle">Current Streak</text>
     <text class="dt" x="247.5" y="162" text-anchor="middle">Sep 10</text>
     <g class="flame">
