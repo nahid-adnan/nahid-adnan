@@ -30,9 +30,9 @@
 
   <g class="fade" style="animation-delay:.25s">
     <circle class="ring" cx="247.5" cy="82" r="42"/>
-    <text class="num" x="247.5" y="95" text-anchor="middle">3</text>
+    <text class="num" x="247.5" y="95" text-anchor="middle">0</text>
     <text class="curLab" x="247.5" y="140" text-anchor="middle">Current Streak</text>
-    <text class="dt" x="247.5" y="162" text-anchor="middle">Sep 10</text>
+    <text class="dt" x="247.5" y="162" text-anchor="middle">—</text>
     <g class="flame">
       <path d="M247.5 28 c 5 7 -3 9 0 15 c 4 -2 5 -7 4 -10 c 5 4 7 10 4 15 c -2 4 -6 6 -8 6 c -6 0 -11 -4 -11 -10 c 0 -8 8 -11 11 -16 z" fill="#58A6FF"/>
     </g>
