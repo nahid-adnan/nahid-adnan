@@ -131,10 +131,10 @@
 <h3 align="center">Where You Can Find Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nahid-hasan-a8767114b" title="LinkedIn"><img height="56" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="mailto:nahid34618@gmail.com" title="Email"><img height="56" src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>&nbsp;&nbsp;
-  <a href="https://github.com/nahid-adnan" title="GitHub"><img height="56" src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>&nbsp;&nbsp;
-  <a href="https://gitlab.com/YOUR-GITLAB-USERNAME" title="GitLab"><img height="56" src="https://skillicons.dev/icons?i=gitlab" alt="GitLab"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nahid-hasan-a8767114b" title="LinkedIn"><img height="56" src="./assets/icons/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="mailto:nahid34618@gmail.com" title="Email"><img height="56" src="./assets/icons/gmail.svg" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://github.com/nahid-adnan" title="GitHub"><img height="56" src="./assets/icons/github.svg" alt="GitHub"></a>&nbsp;&nbsp;
+  <a href="https://gitlab.com/nahid316unmad" title="GitLab"><img height="56" src="./assets/icons/gitlab.svg" alt="GitLab"></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@nahidhasan7785" title="YouTube"><img height="56" src="./assets/icons/youtube.svg" alt="YouTube"></a>
 </p>
 
