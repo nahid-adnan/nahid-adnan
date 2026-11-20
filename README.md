@@ -71,10 +71,11 @@
 
 ## 🗂️ Things I have built
 
-<p align="center"><a href="https://github.com/nahid-adnan/naplan-qld-equity-dashboard" title="NAPLAN QLD equity dashboard"><img src="./assets/work/naplan.svg" width="288" alt="NAPLAN QLD equity dashboard"></a><a href="https://github.com/nahid-adnan/Tasmania-short-stay-dashboard" title="Tasmania short-stay dashboard"><img src="./assets/work/tasmania.svg" width="288" alt="Tasmania short-stay dashboard"></a><a href="https://github.com/nahid-adnan/blue-v-red" title="blue-v-red"><img src="./assets/work/blue-v-red.svg" width="288" alt="blue-v-red"></a></p>
-<p align="center"><a href="https://github.com/nahid-adnan/cp5639-python-practicals" title="cp5639-python-practicals"><img src="./assets/work/cp5639.svg" width="288" alt="cp5639-python-practicals"></a><a href="https://github.com/nahid-adnan/cp1401-assignment-1" title="cp1401-assignment-1"><img src="./assets/work/cp1401.svg" width="288" alt="cp1401-assignment-1"></a></p>
+<p align="center"><a href="https://github.com/nahid-adnan/naplan-qld-equity-dashboard" title="NAPLAN QLD equity dashboard"><img src="./assets/work/naplan.svg" width="288" alt="NAPLAN QLD equity dashboard"></a><a href="https://github.com/nahid-adnan/Tasmania-short-stay-dashboard" title="Tasmania short-stay dashboard"><img src="./assets/work/tasmania.svg" width="288" alt="Tasmania short-stay dashboard"></a><a href="https://github.com/nahid-adnan/retail-sales-sql-r" title="Retail sales and customer baskets"><img src="./assets/work/retail.svg" width="288" alt="Retail sales and customer baskets"></a></p>
+<p align="center"><a href="https://github.com/nahid-adnan/blue-v-red" title="blue-v-red"><img src="./assets/work/blue-v-red.svg" width="288" alt="blue-v-red"></a><a href="https://github.com/nahid-adnan/cp5639-python-practicals" title="cp5639-python-practicals"><img src="./assets/work/cp5639.svg" width="288" alt="cp5639-python-practicals"></a></p>
+<p align="center"><a href="https://github.com/nahid-adnan/cp1401-assignment-1" title="cp1401-assignment-1"><img src="./assets/work/cp1401.svg" width="288" alt="cp1401-assignment-1"></a></p>
 
-<p align="center"><sub>Every tile opens its repository. The panel inside each one is that project, running.</sub></p>
+<p align="center"><sub>Every tile opens its repository. The tiles are illustrated previews; open one for its screenshots, files and documentation.</sub></p>
 
 ---
 
@@ -131,7 +132,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nahid-hasan-a8767114b" title="LinkedIn"><img height="56" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="mailto:nahid316unmad@gmail.com" title="Email"><img height="56" src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>&nbsp;&nbsp;
+  <a href="mailto:nahid34618@gmail.com" title="Email"><img height="56" src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>&nbsp;&nbsp;
   <a href="https://github.com/nahid-adnan" title="GitHub"><img height="56" src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>&nbsp;&nbsp;
   <a href="https://gitlab.com/YOUR-GITLAB-USERNAME" title="GitLab"><img height="56" src="https://skillicons.dev/icons?i=gitlab" alt="GitLab"></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@nahidhasan7785" title="YouTube"><img height="56" src="./assets/icons/youtube.svg" alt="YouTube"></a>

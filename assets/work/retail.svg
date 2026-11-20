@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 268" width="300" height="268" role="img" aria-label="Retail sales and customer baskets">
+<defs>
+  <linearGradient id="bretail" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#08192A"/><stop offset="1" stop-color="#11293F"/>
+  </linearGradient>
+  <clipPath id="cretail"><path d="M 7 134 L 78.5 10 L 221.5 10 L 293 134 L 221.5 258 L 78.5 258 Z"/></clipPath>
+</defs>
+<style>
+  text { font-family:'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif; }
+  .ttl { font-size:14.5px; font-weight:700; fill:#58A6FF; }
+  .desc { font-size:11px; fill:#A7C4D6; }
+  .chip { font-size:9.5px; font-weight:700; }
+  .vlab { font-size:9px; font-weight:700; }
+  .fade { opacity:0; animation:fade .55s ease-out forwards; }
+  @keyframes fade { to { opacity:1; } }
+  .tile { opacity:0; animation:rise .65s cubic-bezier(.2,.7,.3,1) forwards; }
+  @keyframes rise { from { opacity:0; transform:translateY(14px); } to { opacity:1; transform:translateY(0); } }
+  .edge { fill:none; stroke:#58A6FF; stroke-width:2.5; stroke-linecap:round;
+           stroke-dasharray:90 768; animation:trace 4.5s linear infinite; }
+  @keyframes trace { from { stroke-dashoffset:858; } to { stroke-dashoffset:0; } }
+  .ch { opacity:0; animation:fade .5s ease-out .75s forwards; }
+  .gap { opacity:0; animation:fade .6s ease-out 1.4s forwards; }
+  .lst { opacity:0; animation:flick 3.2s ease-in-out infinite; }
+  @keyframes flick { 0%,8% {opacity:.18} 20%,70% {opacity:1} 92%,100% {opacity:.18} }
+</style>
+<g class="tile">
+  <path d="M 7 134 L 78.5 10 L 221.5 10 L 293 134 L 221.5 258 L 78.5 258 Z" fill="url(#bretail)" stroke="#58A6FF" stroke-opacity=".3" stroke-width="1.6"/>
+  <g clip-path="url(#cretail)"><g transform="translate(72.0,52)"><rect x="0" y="60" width="12" height="0" rx="2.5" fill="#58A6FF" opacity="1"><animate attributeName="height" values="0;53.0;53.0" dur="4s" keyTimes="0;.35;1" begin="0.00s" repeatCount="indefinite"/><animate attributeName="y" values="60;7.0;7.0" dur="4s" keyTimes="0;.35;1" begin="0.00s" repeatCount="indefinite"/></rect><rect x="17" y="60" width="12" height="0" rx="2.5" fill="#58A6FF" opacity="1"><animate attributeName="height" values="0;55.1;55.1" dur="4s" keyTimes="0;.35;1" begin="0.08s" repeatCount="indefinite"/><animate attributeName="y" values="60;4.899999999999999;4.899999999999999" dur="4s" keyTimes="0;.35;1" begin="0.08s" repeatCount="indefinite"/></rect><rect x="34" y="60" width="12" height="0" rx="2.5" fill="#58A6FF" opacity="1"><animate attributeName="height" values="0;54.1;54.1" dur="4s" keyTimes="0;.35;1" begin="0.16s" repeatCount="indefinite"/><animate attributeName="y" values="60;5.899999999999999;5.899999999999999" dur="4s" keyTimes="0;.35;1" begin="0.16s" repeatCount="indefinite"/></rect><rect x="51" y="60" width="12" height="0" rx="2.5" fill="#58A6FF" opacity="1"><animate attributeName="height" values="0;46.3;46.3" dur="4s" keyTimes="0;.35;1" begin="0.24s" repeatCount="indefinite"/><animate attributeName="y" values="60;13.700000000000003;13.700000000000003" dur="4s" keyTimes="0;.35;1" begin="0.24s" repeatCount="indefinite"/></rect><rect x="68" y="60" width="12" height="0" rx="2.5" fill="#58A6FF" opacity="1"><animate attributeName="height" values="0;45.5;45.5" dur="4s" keyTimes="0;.35;1" begin="0.32s" repeatCount="indefinite"/><animate attributeName="y" values="60;14.5;14.5" dur="4s" keyTimes="0;.35;1" begin="0.32s" repeatCount="indefinite"/></rect><rect x="85" y="60" width="12" height="0" rx="2.5" fill="#58A6FF" opacity="1"><animate attributeName="height" values="0;52.4;52.4" dur="4s" keyTimes="0;.35;1" begin="0.40s" repeatCount="indefinite"/><animate attributeName="y" values="60;7.600000000000001;7.600000000000001" dur="4s" keyTimes="0;.35;1" begin="0.40s" repeatCount="indefinite"/></rect><text class="vlab" x="6" y="71" text-anchor="middle" fill="#58A6FF" opacity=".65">J</text><text class="vlab" x="23" y="71" text-anchor="middle" fill="#58A6FF" opacity=".65">F</text><text class="vlab" x="40" y="71" text-anchor="middle" fill="#58A6FF" opacity=".65">M</text><text class="vlab" x="57" y="71" text-anchor="middle" fill="#58A6FF" opacity=".65">A</text><text class="vlab" x="74" y="71" text-anchor="middle" fill="#58A6FF" opacity=".65">M</text><text class="vlab" x="91" y="71" text-anchor="middle" fill="#58A6FF" opacity=".65">J</text><g class="gap"><line x1="112" y1="36" x2="148" y2="36" stroke="#A7C4D6" stroke-opacity=".6" stroke-width="1.2" stroke-dasharray="3 2"/><text class="vlab" x="153" y="39" fill="#A7C4D6">0</text><line x1="130" y1="5.1" x2="130" y2="52.9" stroke="#FFD43B" stroke-width="1.6"/><path d="M126 5.1 L134 5.1 M126 52.9 L134 52.9" stroke="#FFD43B" stroke-width="1.6"/><circle class="lst" cx="130" cy="29.3" r="3.6" fill="#58A6FF"/><text class="vlab" x="130" y="71" text-anchor="middle" fill="#FFD43B">95% CI</text></g></g></g>
+  <text class="ttl fade" x="150.0" y="145" text-anchor="middle" style="animation-delay:.3s">Retail sales &amp;</text><text class="ttl fade" x="150.0" y="164" text-anchor="middle" style="animation-delay:.3s">customer baskets</text><text class="desc fade" x="150.0" y="187" text-anchor="middle" style="animation-delay:0.45s">300 synthetic orders, Jan to Jun 2025.</text><text class="desc fade" x="150.0" y="202" text-anchor="middle" style="animation-delay:0.53s">SQL returns check, bootstrap CI in R.</text><g class="ch"><rect x="85.8" y="223" width="31.2" height="18" rx="4" fill="#E03131"/><text class="chip" x="101.4" y="235.5" text-anchor="middle" fill="#fff">SQL</text></g><g class="ch"><rect x="123.0" y="223" width="22.0" height="18" rx="4" fill="#276DC3"/><text class="chip" x="134.0" y="235.5" text-anchor="middle" fill="#fff">R</text></g><g class="ch"><rect x="151.0" y="223" width="63.2" height="18" rx="4" fill="#F2C811"/><text class="chip" x="182.6" y="235.5" text-anchor="middle" fill="#1A1A1A">Power BI</text></g>
+  <path class="edge" d="M 7 134 L 78.5 10 L 221.5 10 L 293 134 L 221.5 258 L 78.5 258 Z"/>
+</g>
+</svg>
