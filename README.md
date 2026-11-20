@@ -100,7 +100,7 @@
 ## 📊 GitHub stats
 
 <div align="center">
-  <img width="100%" alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahid-adnan&theme=github_dark&animation=rgb-soft">
+  <img width="100%" alt="Profile summary" src="./assets/cards/profile-details.svg">
 </div>
 
 <div align="center">
